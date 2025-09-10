@@ -1,0 +1,5 @@
+{
+  "name": "AI Travel Itinerary",
+  "description": "An advanced AI-powered travel itinerary generator with a neobrutalism design. Enter your destination, duration, and interests to get a detailed, day-by-day travel plan.",
+  "requestFramePermissions": []
+}
