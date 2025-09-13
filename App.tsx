@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import Header from './components/Header';
 import ItineraryForm from './components/ItineraryForm';
 import ItineraryDisplay from './components/ItineraryDisplay';
+//ui
 import LoadingSpinner from './components/LoadingSpinner';
 import ErrorDisplay from './components/ErrorDisplay';
 import Footer from './components/Footer';
